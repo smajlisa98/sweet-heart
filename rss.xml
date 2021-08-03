@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+	<rss version="2.0">
+		<channel>
+			<item>
+				<title>Naslovna</title>
+				<decription>Poslasticarnica</decription>
+				<link>#</link>
+			</item>
+			<item>
+				<title>Torte</title>
+				<description>Najukusnije i najlepse torte.</description>
+				<link>#</link>
+			</item>
+			<item>
+				<title>Kolaci</title>
+				<description>Najukusniji i najleps kolaci.</description>
+				<link>#</link>
+			</item>
+			<item>
+				<title>Cupcakes</title>
+				<description>Najukusniji i najleps mafini(kapkejks).</description>
+				<link>#</link>
+			</item>
+			<item>
+				<title>Macarons</title>
+				<description>Najukusnije i najlepse sitne poslastice.</description>
+				<link>#</link>
+			</item>
+		<item>
+				<title>Cenovnik</title>
+				<description>Pristupacne cene.</description>
+				<link>#</link>
+			</item>
+			<item>
+				<title>Kontakt</title>
+				<description>Kontaktirajte nas.</description>
+				<link>#</link>
+			</item>
+			<item>
+				<title>O_autoru</title>
+				<description>Nesto o meni.</description>
+				<link>#</link>
+			</item>
+		</channel>
+	</rss>
